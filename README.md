@@ -1,6 +1,8 @@
 # Information Retrieval at Innopolis University
 
-This repository aggregates reading materials, lab templates, datasets and other electronic resourses useful to learn about search, recommendations and other IR things.
+The repository contains assignments(located in homeworks folder) and also last 2 lab solutions(located in lab solutions folder) from Information retrieval course in innopolis, 
+
+
 
 ## Reading
 - In 2021, there is still [THE BOOK](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) which is both good and old. That is why this book is mandatory reading, because it covers all necessary topics. But unfortunately it was written right before multimedia retrieval, recommender systems and machine learning became a common place.
